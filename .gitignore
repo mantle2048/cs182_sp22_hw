@@ -4,4 +4,4 @@
 **/__pycache__/
 **/.idea/
 **/.ipynb_checkpoints/
-**/datasets/cifar-10-batches-py
+**/datasets
