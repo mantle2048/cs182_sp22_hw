@@ -4,4 +4,5 @@
 **/__pycache__/
 **/.idea/
 **/.ipynb_checkpoints/
-**/datasets
+**/datasets/cifar-10-batches-py
+**/datasets/coco_captioning
