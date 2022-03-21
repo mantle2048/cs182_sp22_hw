@@ -6,3 +6,6 @@
 **/.ipynb_checkpoints/
 **/datasets/cifar-10-batches-py
 **/datasets/coco_captioning
+**/best_models
+hw3_transformer/dataset
+**/models
